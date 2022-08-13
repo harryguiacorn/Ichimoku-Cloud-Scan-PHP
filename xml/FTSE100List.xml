@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set>
+  <instrument>
+    <symbol>AAL.L</symbol>
+    <name>Anglo American</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ABDN.L</symbol>
+    <name>abrdn plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ABF.L</symbol>
+    <name>Associated British Foods plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-51</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ADM.L</symbol>
+    <name>Admiral Group</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-35</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AHT.L</symbol>
+    <name>Ashtead Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+74</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ANTO.L</symbol>
+    <name>Antofagasta Holdings</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+16</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AUTO.L</symbol>
+    <name>Auto Trader Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+63</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AV.L</symbol>
+    <name>Aviva plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+0</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+38</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AVST.L</symbol>
+    <name>Avast</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+0</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AVV.L</symbol>
+    <name>AVEVA Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-39</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+30</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AZN.L</symbol>
+    <name>AstraZeneca plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+31</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BA.L</symbol>
+    <name>BAE Systems plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-8</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BARC.L</symbol>
+    <name>Barclays plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+22</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BATS.L</symbol>
+    <name>British American Tobacco plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-78</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BDEV.L</symbol>
+    <name>Barratt Developments plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-43</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BHP.L</symbol>
+    <name>BHP Group Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BKG.L</symbol>
+    <name>Berkeley Group Holdings plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-44</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BLND.L</symbol>
+    <name>British Land Co plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BME.L</symbol>
+    <name>B&amp;M</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+42</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BNZL.L</symbol>
+    <name>Bunzl plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BP.L</symbol>
+    <name>BP Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+52</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BRBY.L</symbol>
+    <name>Burberry Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BT-A.L</symbol>
+    <name>BT Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CCH.L</symbol>
+    <name>Coca-Cola HBC AG</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+5</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+53</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CPG.L</symbol>
+    <name>Compass Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+5</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CRDA.L</symbol>
+    <name>Croda International plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+96</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CRH.L</symbol>
+    <name>CRH plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DCC.L</symbol>
+    <name>DCC plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-24</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DGE.L</symbol>
+    <name>Diageo plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+27</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+38</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ENT.L</symbol>
+    <name>Entain</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+61</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EVR.L</symbol>
+    <name>Evraz plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+16</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EXPN.L</symbol>
+    <name>Experian Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+5</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FERG.L</symbol>
+    <name>Ferguson plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+64</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FLTR.L</symbol>
+    <name>Flutter Entertainment</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-23</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FRES.L</symbol>
+    <name>Fresnillo</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+16</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-42</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GLEN.L</symbol>
+    <name>Glencore plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+67</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+57</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GSK.L</symbol>
+    <name>GlaxoSmithKline plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+8</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HIK.L</symbol>
+    <name>Hikma Pharmaceuticals</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+17</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HL.L</symbol>
+    <name>Hargreaves Lansdown plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HLMA.L</symbol>
+    <name>Halma plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+45</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HSBA.L</symbol>
+    <name>HSBC Holdings plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+23</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IAG.L</symbol>
+    <name>International Consolidated Airlines Group SA</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ICP.L</symbol>
+    <name>Intermediate Capital Group</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+61</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IHG.L</symbol>
+    <name>InterContinental Hotels Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+33</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>III.L</symbol>
+    <name>3i Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IMB.L</symbol>
+    <name>Imperial Brands Group</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+49</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>INF.L</symbol>
+    <name>Informa plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-10</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ITRK.L</symbol>
+    <name>Intertek Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ITV.L</symbol>
+    <name>ITV plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>JD.L</symbol>
+    <name>JD Sports Fashion plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+62</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>JMAT.L</symbol>
+    <name>Johnson Matthey Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KGF.L</symbol>
+    <name>Kingfisher</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-31</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LAND.L</symbol>
+    <name>Land Securities Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-42</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LGEN.L</symbol>
+    <name>Legal &amp; General Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>Neutral</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LLOY.L</symbol>
+    <name>Lloyds Banking Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-4</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+38</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LSEG.L</symbol>
+    <name>London Stock Exchange Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-35</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MGGT.L</symbol>
+    <name>Meggitt</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+61</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MNDI.L</symbol>
+    <name>Mondi Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MNG.L</symbol>
+    <name>M&amp;G plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-56</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MRO.L</symbol>
+    <name>Melrose Industries plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-49</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MRW.L</symbol>
+    <name>Morrison (Wm) Supermarkets</name>
+  <LatestDateDaily>2021-11-05</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-24</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NG.L</symbol>
+    <name>National Grid</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+5</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NXT.L</symbol>
+    <name>Next plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-23</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+61</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>OCDO.L</symbol>
+    <name>Ocado Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-37</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PHNX.L</symbol>
+    <name>Phoenix Group Holdings Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+28</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-25</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>POLY.L</symbol>
+    <name>Polymetal International plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+14</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-39</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PRU.L</symbol>
+    <name>Prudential plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+48</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PSH.L</symbol>
+    <name>Pershing Square Holdings</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+47</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+83</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PSN.L</symbol>
+    <name>Persimmon plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PSON.L</symbol>
+    <name>Pearson plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-67</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RDSA.L</symbol>
+    <name>Royal Dutch Shell Plc A Shares</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+27</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RDSB.L</symbol>
+    <name>Royal Dutch Shell Plc B Shares</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+62</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>REL.L</symbol>
+    <name>RELX plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+32</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RIO.L</symbol>
+    <name>Rio Tinto plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-8</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RKT.L</symbol>
+    <name>Reckitt Benckiser Group Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-53</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RMV.L</symbol>
+    <name>Rightmove plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RR.L</symbol>
+    <name>Rolls Royce Holdings Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-4</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RTO.L</symbol>
+    <name>Rentokil Initial Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+4</LatestKSignalDaily><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>Neutral</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SBRY.L</symbol>
+    <name>Sainsbury (J) plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+52</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SDR.L</symbol>
+    <name>Schroders plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+61</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SGE.L</symbol>
+    <name>Sage Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+25</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SGRO.L</symbol>
+    <name>Segro Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+8</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+39</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SKG.L</symbol>
+    <name>Smurfit Kappa Group Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+0</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SMDS.L</symbol>
+    <name>Smith (DS)</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-35</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SMIN.L</symbol>
+    <name>Smiths Group Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-6</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SMT.L</symbol>
+    <name>Scottish Mortgage Investment Trust</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SN.L</symbol>
+    <name>Smith &amp; Nephew plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-17</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SPX.L</symbol>
+    <name>Spirax-Sarco Engineering plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+93</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SSE.L</symbol>
+    <name>SSE plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+14</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>STAN.L</symbol>
+    <name>Standard Chartered plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+20</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>STJ.L</symbol>
+    <name>St James's Place Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+53</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SVT.L</symbol>
+    <name>Severn Trent Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+4</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TSCO.L</symbol>
+    <name>Tesco plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+23</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TW.L</symbol>
+    <name>Taylor Wimpey plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-38</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ULVR.L</symbol>
+    <name>Unilever plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-76</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UU.L</symbol>
+    <name>United Utilities Group Plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+6</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+31</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VOD.L</symbol>
+    <name>Vodafone Group plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-18</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-17</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WPP.L</symbol>
+    <name>WPP plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+48</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WTB.L</symbol>
+    <name>Whitbread plc</name>
+  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-12</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+</data-set>

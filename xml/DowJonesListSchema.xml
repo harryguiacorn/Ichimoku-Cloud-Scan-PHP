@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <instrument>
+       <symbol>AAPL</symbol>
+       <name>Apple Inc.</name>
+    </instrument>
+    <instrument>
+       <symbol>AXP</symbol>
+       <name>American Express Company</name>
+    </instrument>
+</data-set>

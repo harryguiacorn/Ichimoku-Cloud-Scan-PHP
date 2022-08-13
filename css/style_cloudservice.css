@@ -1,0 +1,138 @@
+h1 {
+	text-align: center;
+	font-family: sansation_lightlight;
+	font-size: 100;
+	color: #636363;
+	/* border:3px solid #73AD21; */
+	margin-bottom:0.45em;
+}
+h2 {
+	text-align: center;
+	font-family: ralewaythin;
+	font-size: 40;
+	color: #7d7d7d;
+	/* border:3px solid #73AD21; */
+}
+p{
+	text-align: center;
+	font-family: ralewaythin;
+	font-size: 16;
+	color: #808080;
+}
+table {
+    /* width: 100%; */
+	table-layout: auto;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+th, td {
+    padding: 5px;
+	text-align:center;
+}
+form#cloudSerivce
+{
+	margin:4em;
+}
+input {
+	border: 2px solid #37c837;
+    margin: 0.5em;
+    padding: 10px;
+	color: #37c837;
+	font-size: 40;
+    text-transform: uppercase;
+    border-radius: 6px;
+	text-align: center;
+	/* width:7em; */
+}
+#portalInput
+{
+	font-size: 40;
+    font-weight: bold;
+}
+#txtDirectionBullish a:hover
+{
+	text-decoration: none;
+}
+#txtDirectionBullish
+{
+	font-size: 40;
+	color: #2ca32c;
+	padding:0;
+}
+#txtDirectionBearish
+{
+	font-size: 40;
+	color: #c91818;
+	padding:0;
+}
+#txtDirectionNeutral
+{
+	font-size: 40;
+	color: #838b91;
+	padding:0;
+}
+div
+{
+	text-align:center;
+}
+#div_button
+{
+    margin: auto; 
+	/* border:3px solid #73AD21; */
+}
+.l-box 
+{
+	padding: 1em;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.svgBullish{
+	-ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+    transform: rotate(-90deg);
+	
+    width: 10%;
+    height: auto;
+}
+/***********************
+  OUTLINE BUTTONS
+************************/
+.btn.outline {
+    background: none;
+    padding: 12px 22px;
+}
+.btn-success.outline {
+    border: 2px solid #37c837;/* 0099cc 37c837*/
+    color: #37c837;/* 0099cc 37c837*/
+}
+.btn-success.outline:hover, .btn-success.outline:focus, .btn-success.outline:active, .btn-success.outline.active, .open > .dropdown-toggle.btn-success {
+    color: #62d562;/* 33a6cc 49cd49 */
+    border-color: #62d562;/* 33a6cc 49cd49 */
+}
+.btn-success.outline:active, .btn-success.outline.active {
+    border-color: #2ca32c;/* 007299 */
+    color: #2ca32c;/* 007299 */
+    box-shadow: none;
+}
+
+/***********************
+  CUSTON BTN VALUES
+************************/
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set>
+  <instrument>
+    <symbol>ADS.DE</symbol>
+    <name>Adidas</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-49</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ADYEN.AS</symbol>
+    <name>Adyen</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-21</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+98</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AD.AS</symbol>
+    <name>Ahold Delhaize</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-10</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AI.PA</symbol>
+    <name>Air Liquide</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-30</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AIR.PA</symbol>
+    <name>Airbus</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-2</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ALV.DE</symbol>
+    <name>Allianz</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AMS.MC</symbol>
+    <name>Amadeus IT Group</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+27</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ABI.BR</symbol>
+    <name>Anheuser-Busch InBev</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-86</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ASML.AS</symbol>
+    <name>ASML Holding</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-21</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+76</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CS.PA</symbol>
+    <name>AXA</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+19</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+46</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BAS.DE</symbol>
+    <name>BASF</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BAYN.DE</symbol>
+    <name>Bayer</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SAN.MC</symbol>
+    <name>Banco Santander</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+21</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+49</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BMW.DE</symbol>
+    <name>BMW</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+22</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+60</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BNP.PA</symbol>
+    <name>BNP Paribas</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+22</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+57</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CRG.IR</symbol>
+    <name>CRH</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-34</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DAI.DE</symbol>
+    <name>Daimler AG</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+24</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+62</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BN.PA</symbol>
+    <name>Danone</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-36</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DB1.DE</symbol>
+    <name>Deutsche Börse</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DPW.DE</symbol>
+    <name>Deutsche Post</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-25</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+68</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DTE.DE</symbol>
+    <name>Deutsche Telekom</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-33</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+34</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ENEL.MI</symbol>
+    <name>Enel</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+0</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ENGI.PA</symbol>
+    <name>Engie</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+4</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ENI.MI</symbol>
+    <name>Eni</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+54</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+43</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EL.PA</symbol>
+    <name>EssilorLuxottica</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-12</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+48</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FLTR.IR</symbol>
+    <name>Flutter Entertainment</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-12</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IBE.MC</symbol>
+    <name>Iberdrola</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ITX.MC</symbol>
+    <name>Inditex</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+53</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+51</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IFX.DE</symbol>
+    <name>Infineon Technologies</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+68</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>INGA.AS</symbol>
+    <name>ING Group</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+58</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ISP.MI</symbol>
+    <name>Intesa Sanpaolo</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+23</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KER.PA</symbol>
+    <name>Kering</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-49</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+61</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KNEBV.HE</symbol>
+    <name>Kone</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-35</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>OR.PA</symbol>
+    <name>L'Oréal</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-28</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+72</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LIN.DE</symbol>
+    <name>Linde plc</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+68</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MC.PA</symbol>
+    <name>LVMH Moët Hennessy Louis Vuitton</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MUV2.DE</symbol>
+    <name>Munich Re</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+6</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RI.PA</symbol>
+    <name>Pernod Ricard</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+34</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PHIA.AS</symbol>
+    <name>Philips</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+4</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PRX.AS</symbol>
+    <name>Prosus</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+6</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-25</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SAF.PA</symbol>
+    <name>Safran</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+26</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SAN.PA</symbol>
+    <name>Sanofi</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+5</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SAP.DE</symbol>
+    <name>SAP SE</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+8</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SU.PA</symbol>
+    <name>Schneider Electric</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-27</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+64</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SIE.DE</symbol>
+    <name>Siemens</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-18</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+65</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TTE.PA</symbol>
+    <name>TotalEnergies</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+54</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DG.PA</symbol>
+    <name>Vinci SA</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+5</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VIV.PA</symbol>
+    <name>Vivendi</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+0</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VOW.DE</symbol>
+    <name>Volkswagen Group</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VNA.DE</symbol>
+    <name>Vonovia</name>
+  <LatestDateDaily>2021-10-27</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-39</LatestKSignalDaily><LatestDateWeekly>2021-10-27</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
+</data-set>

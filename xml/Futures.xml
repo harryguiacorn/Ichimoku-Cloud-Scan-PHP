@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set>
+  <instrument>
+    <symbol>ES=F</symbol>
+    <name>E-Mini S&amp;P 500 Mar 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-12</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>YM=F</symbol>
+    <name>Mini Dow Jones Indus.-$5 Mar 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-11</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NQ=F</symbol>
+    <name>Nasdaq 100 Mar 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-43</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RTY=F</symbol>
+    <name>E-mini Russell 2000 Index Futur</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-48</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZB=F</symbol>
+    <name>U.S. Treasury Bond Futures,Mar-</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-23</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZN=F</symbol>
+    <name>10-Year T-Note Futures,Mar-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-23</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZF=F</symbol>
+    <name>Five-Year US Treasury Note Futu</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-23</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-53</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZT=F</symbol>
+    <name>2-Year T-Note Futures,Mar-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-51</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-45</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GC=F</symbol>
+    <name>Gold</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-5</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MGC=F</symbol>
+    <name>Micro Gold Futures,Apr-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-5</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SI=F</symbol>
+    <name>Silver</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+13</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-28</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SIL=F</symbol>
+    <name>Micro Silver Futures,Mar-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+13</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-28</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PL=F</symbol>
+    <name>Platinum Apr 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+21</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-27</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HG=F</symbol>
+    <name>Copper Mar 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-5</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-14</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PA=F</symbol>
+    <name>Palladium Mar 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-25</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CL=F</symbol>
+    <name>Crude Oil</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+21</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+69</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HO=F</symbol>
+    <name>Heating Oil Mar 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+22</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+67</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NG=F</symbol>
+    <name>Natural Gas Mar 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+16</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+35</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RB=F</symbol>
+    <name>RBOB Gasoline Mar 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+21</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BZ=F</symbol>
+    <name>Brent Crude Oil Last Day Financ</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+21</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+68</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>B0=F</symbol>
+    <name>Mont Belvieu LDH Propane (OPIS)</name>
+  <LatestDateDaily>2021-12-02</LatestDateDaily><LatestSignalDaily>N/A</LatestSignalDaily><LatestKSignalDaily>N/A</LatestKSignalDaily><LatestDateWeekly>2021-12-02</LatestDateWeekly><LatestSignalWeekly>N/A</LatestSignalWeekly><LatestKSignalWeekly>N/A</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZC=F</symbol>
+    <name>Corn Futures,May-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+77</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZO=F</symbol>
+    <name>Oat Futures,May-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+61</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KE=F</symbol>
+    <name>KC HRW Wheat Futures,Mar-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-24</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+73</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZR=F</symbol>
+    <name>Rough Rice Futures,May-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-0</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-0</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZM=F</symbol>
+    <name>Soybean Meal Futures,May-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+65</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZL=F</symbol>
+    <name>Soybean Oil Futures,May-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZS=F</symbol>
+    <name>Soybean Futures,May-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+56</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GF=F</symbol>
+    <name>Feeder Cattle Futures,Mar-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+37</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HE=F</symbol>
+    <name>Lean Hogs Futures,Apr-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+33</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LE=F</symbol>
+    <name>Live Cattle Futures,Apr-2022</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+79</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+71</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CC=F</symbol>
+    <name>Cocoa May 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+40</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+21</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KC=F</symbol>
+    <name>Coffee May 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+76</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CT=F</symbol>
+    <name>Cotton May 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+16</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+74</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LBS=F</symbol>
+    <name>Random Length Lumber Futures</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-6</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>OJ=F</symbol>
+    <name>Orange Juice May 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+57</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>N/A</LatestSignalWeekly><LatestKSignalWeekly>N/A</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SB=F</symbol>
+    <name>Sugar #11 May 22</name>
+  <LatestDateDaily>2022-02-04</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-46</LatestKSignalDaily><LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+71</LatestKSignalWeekly></instrument>
+</data-set>

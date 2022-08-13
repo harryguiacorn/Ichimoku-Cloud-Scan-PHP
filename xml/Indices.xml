@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set>
+  <instrument>
+    <symbol>^GSPC</symbol>
+    <name>S&amp;P 500</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-17</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^DJI</symbol>
+    <name>Dow 30</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-15</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^IXIC</symbol>
+    <name>Nasdaq</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-49</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^NYA</symbol>
+    <name>NYSE COMPOSITE (DJ)</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-14</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^XAX</symbol>
+    <name>NYSE AMEX COMPOSITE INDEX</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+73</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+27</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^BUK100P</symbol>
+    <name>Cboe UK 100</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+62</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+34</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^RUT</symbol>
+    <name>Russell 2000</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-53</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^VIX</symbol>
+    <name>CBOE Volatility Index</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+15</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^FTSE</symbol>
+    <name>FTSE 100</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+62</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+33</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^GDAXI</symbol>
+    <name>DAX PERFORMANCE-INDEX</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+75</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-14</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^FCHI</symbol>
+    <name>CAC 40</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+74</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-1</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^STOXX50E</symbol>
+    <name>ESTX 50 PR.EUR</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+74</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-14</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^N100</symbol>
+    <name>Euronext 100 Index</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+74</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-14</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^BFX</symbol>
+    <name>BEL 20</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-14</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>IMOEX.ME</symbol>
+    <name>MOEX Russia Index</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-63</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^N225</symbol>
+    <name>Nikkei 225</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-2</LatestKSignalWeekly><LatestDateDaily>2022-02-10</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-16</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^HSI</symbol>
+    <name>HANG SENG INDEX</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-31</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+19</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>000001.SS</symbol>
+    <name>SSE Composite Index</name>
+  <LatestDateWeekly>2022-02-01</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+21</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-19</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>399001.SZ</symbol>
+    <name>Shenzhen Component</name>
+  <LatestDateWeekly>2022-02-01</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-2</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-33</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^STI</symbol>
+    <name>STI Index</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+14</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+26</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^AXJO</symbol>
+    <name>S&amp;P/ASX 200</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-14</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^AORD</symbol>
+    <name>ALL ORDINARIES</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-14</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^BSESN</symbol>
+    <name>S&amp;P BSE SENSEX</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+72</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+28</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^JKSE</symbol>
+    <name>Jakarta Composite Index</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+4</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^KLSE</symbol>
+    <name>FTSE Bursa Malaysia KLCI</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-38</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+30</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^NZ50</symbol>
+    <name>S&amp;P/NZX 50 INDEX GROSS</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-16</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^KS11</symbol>
+    <name>KOSPI Composite Index</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-16</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^TWII</symbol>
+    <name>TSEC weighted index</name>
+  <LatestDateWeekly>2022-02-01</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+82</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-6</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^GSPTSE</symbol>
+    <name>S&amp;P/TSX Composite index</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+73</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^BVSP</symbol>
+    <name>IBOVESPA</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-21</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+42</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^MXX</symbol>
+    <name>IPC MEXICO</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+71</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-13</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^MERV</symbol>
+    <name>MERVAL</name>
+  <LatestDateWeekly>2022-02-01</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+46</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+10</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^TA125.TA</symbol>
+    <name>TA-125</name>
+  <LatestDateWeekly>2022-02-03</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+73</LatestKSignalWeekly><LatestDateDaily>2022-02-10</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+115</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^CASE30</symbol>
+    <name>EGX 30 Price Return Index</name>
+  <LatestDateWeekly>2022-02-03</LatestDateWeekly><LatestSignalWeekly>N/A</LatestSignalWeekly><LatestKSignalWeekly>N/A</LatestKSignalWeekly><LatestDateDaily>2022-02-10</LatestDateDaily><LatestSignalDaily>N/A</LatestSignalDaily><LatestKSignalDaily>N/A</LatestKSignalDaily></instrument>
+  <instrument>
+    <symbol>^JN0U.JO</symbol>
+    <name>Top 40 USD Net TRI Index</name>
+  <LatestDateWeekly>2022-02-04</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly><LatestDateDaily>2022-02-11</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+31</LatestKSignalDaily></instrument>
+</data-set>

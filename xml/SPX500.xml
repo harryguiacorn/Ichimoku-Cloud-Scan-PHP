@@ -1,0 +1,2023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set>
+  <instrument>
+    <symbol>MMM</symbol>
+    <name>3M</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AOS</symbol>
+    <name>A. O. Smith</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ABT</symbol>
+    <name>Abbott</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ABBV</symbol>
+    <name>AbbVie</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+72</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ABMD</symbol>
+    <name>Abiomed</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ACN</symbol>
+    <name>Accenture</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ATVI</symbol>
+    <name>Activision Blizzard</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-36</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ADM</symbol>
+    <name>ADM</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+14</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ADBE</symbol>
+    <name>Adobe</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ADP</symbol>
+    <name>ADP</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AAP</symbol>
+    <name>Advance Auto Parts</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AES</symbol>
+    <name>AES</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-33</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AFL</symbol>
+    <name>Aflac</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>A</symbol>
+    <name>Agilent Technologies</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AIG</symbol>
+    <name>AIG</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>APD</symbol>
+    <name>Air Products</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AKAM</symbol>
+    <name>Akamai</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ALK</symbol>
+    <name>Alaska Air Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ALB</symbol>
+    <name>Albemarle</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ARE</symbol>
+    <name>Alexandria</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ALGN</symbol>
+    <name>Align</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ALLE</symbol>
+    <name>Allegion</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LNT</symbol>
+    <name>Alliant Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ALL</symbol>
+    <name>Allstate</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GOOGL</symbol>
+    <name>Alphabet (Class A)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GOOG</symbol>
+    <name>Alphabet (Class C)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MO</symbol>
+    <name>Altria</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AMZN</symbol>
+    <name>Amazon</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AMCR</symbol>
+    <name>Amcor</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AMD</symbol>
+    <name>AMD</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+36</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AEE</symbol>
+    <name>Ameren</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AAL</symbol>
+    <name>American Airlines Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AEP</symbol>
+    <name>American Electric Power</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AXP</symbol>
+    <name>American Express</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AMT</symbol>
+    <name>American Tower</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AWK</symbol>
+    <name>American Water</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AMP</symbol>
+    <name>Ameriprise Financial</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ABC</symbol>
+    <name>AmerisourceBergen</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+96</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AME</symbol>
+    <name>Ametek</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AMGN</symbol>
+    <name>Amgen</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>APH</symbol>
+    <name>Amphenol</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ADI</symbol>
+    <name>Analog Devices</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ANSS</symbol>
+    <name>Ansys</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ANTM</symbol>
+    <name>Anthem</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AON</symbol>
+    <name>Aon</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>APA</symbol>
+    <name>APA Corporation</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AAPL</symbol>
+    <name>Apple</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+96</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AMAT</symbol>
+    <name>Applied Materials</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>APTV</symbol>
+    <name>Aptiv</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ANET</symbol>
+    <name>Arista</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+89</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AIZ</symbol>
+    <name>Assurant</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>T</symbol>
+    <name>AT&amp;T</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-37</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ATO</symbol>
+    <name>Atmos Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ADSK</symbol>
+    <name>Autodesk</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AZO</symbol>
+    <name>AutoZone</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+89</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AVB</symbol>
+    <name>AvalonBay Communities</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+73</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AVY</symbol>
+    <name>Avery Dennison</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BKR</symbol>
+    <name>Baker Hughes</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BLL</symbol>
+    <name>Ball</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BAC</symbol>
+    <name>Bank of America</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BBWI</symbol>
+    <name>Bath &amp; Body Works</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BAX</symbol>
+    <name>Baxter</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BDX</symbol>
+    <name>Becton Dickinson</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WRB</symbol>
+    <name>Berkley</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+24</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BRK-B</symbol>
+    <name>Berkshire Hathaway</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+83</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BBY</symbol>
+    <name>Best Buy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BIO</symbol>
+    <name>Bio-Rad</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TECH</symbol>
+    <name>Bio-Techne</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BIIB</symbol>
+    <name>Biogen</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-23</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BLK</symbol>
+    <name>BlackRock</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BK</symbol>
+    <name>BNY Mellon</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+67</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BA</symbol>
+    <name>Boeing</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BKNG</symbol>
+    <name>Booking Holdings</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BWA</symbol>
+    <name>BorgWarner</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BXP</symbol>
+    <name>Boston Properties</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BSX</symbol>
+    <name>Boston Scientific</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BMY</symbol>
+    <name>Bristol Myers Squibb</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AVGO</symbol>
+    <name>Broadcom</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+32</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BR</symbol>
+    <name>Broadridge</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BRO</symbol>
+    <name>Brown &amp; Brown</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+51</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BF-B</symbol>
+    <name>Brown–Forman</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-27</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CHRW</symbol>
+    <name>C.H. Robinson</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+17</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CDNS</symbol>
+    <name>Cadence</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CZR</symbol>
+    <name>Caesars Entertainment</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CPB</symbol>
+    <name>Campbell's</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>COF</symbol>
+    <name>Capital One</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CAH</symbol>
+    <name>Cardinal Health</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KMX</symbol>
+    <name>CarMax</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CCL</symbol>
+    <name>Carnival</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CARR</symbol>
+    <name>Carrier</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CTLT</symbol>
+    <name>Catalent</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CAT</symbol>
+    <name>Caterpillar</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CBOE</symbol>
+    <name>Cboe</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CBRE</symbol>
+    <name>CBRE</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CDW</symbol>
+    <name>CDW</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CE</symbol>
+    <name>Celanese</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CNC</symbol>
+    <name>Centene</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+46</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CNP</symbol>
+    <name>CenterPoint Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+45</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CDAY</symbol>
+    <name>Ceridian</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CERN</symbol>
+    <name>Cerner</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CF</symbol>
+    <name>CF Industries</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CRL</symbol>
+    <name>Charles River</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SCHW</symbol>
+    <name>Charles Schwab</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CHTR</symbol>
+    <name>Charter Communications</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CVX</symbol>
+    <name>Chevron</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+64</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CMG</symbol>
+    <name>Chipotle Mexican Grill</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CB</symbol>
+    <name>Chubb</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CHD</symbol>
+    <name>Church &amp; Dwight</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+21</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CI</symbol>
+    <name>Cigna</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CINF</symbol>
+    <name>Cincinnati Financial</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CTAS</symbol>
+    <name>Cintas</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CSCO</symbol>
+    <name>Cisco</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+60</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>C</symbol>
+    <name>Citigroup</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CFG</symbol>
+    <name>Citizens</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CTXS</symbol>
+    <name>Citrix</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-46</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CLX</symbol>
+    <name>Clorox</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-73</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CME</symbol>
+    <name>CME Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CMS</symbol>
+    <name>CMS Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KO</symbol>
+    <name>Coca-Cola</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CTSH</symbol>
+    <name>Cognizant</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+21</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CL</symbol>
+    <name>Colgate-Palmolive</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CMCSA</symbol>
+    <name>Comcast</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-25</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CMA</symbol>
+    <name>Comerica</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CAG</symbol>
+    <name>Conagra Brands</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>COP</symbol>
+    <name>ConocoPhillips</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+65</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ED</symbol>
+    <name>Con Edison</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>STZ</symbol>
+    <name>Constellation Brands</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CEG</symbol>
+    <name>Constellation Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>N/A</LatestSignalWeekly><LatestKSignalWeekly>N/A</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>COO</symbol>
+    <name>CooperCompanies</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CPRT</symbol>
+    <name>Copart</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GLW</symbol>
+    <name>Corning</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CTVA</symbol>
+    <name>Corteva</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>COST</symbol>
+    <name>Costco</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+41</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CTRA</symbol>
+    <name>Coterra</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CCI</symbol>
+    <name>Crown Castle</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CSX</symbol>
+    <name>CSX</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+24</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CMI</symbol>
+    <name>Cummins</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-35</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CVS</symbol>
+    <name>CVS Health</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+73</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DHI</symbol>
+    <name>D.R. Horton</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DHR</symbol>
+    <name>Danaher</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DRI</symbol>
+    <name>Darden</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DVA</symbol>
+    <name>DaVita</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-23</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DE</symbol>
+    <name>Deere &amp; Co.</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DAL</symbol>
+    <name>Delta Air Lines</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-33</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>XRAY</symbol>
+    <name>Dentsply Sirona</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DVN</symbol>
+    <name>Devon</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+70</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DXCM</symbol>
+    <name>DexCom</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FANG</symbol>
+    <name>Diamondback</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+65</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DLR</symbol>
+    <name>Digital Realty</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DFS</symbol>
+    <name>Discover</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DISCA</symbol>
+    <name>Discovery (Series A)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DISCK</symbol>
+    <name>Discovery (Series C)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DISH</symbol>
+    <name>Dish</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DIS</symbol>
+    <name>Disney</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-30</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DG</symbol>
+    <name>Dollar General</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DLTR</symbol>
+    <name>Dollar Tree</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>D</symbol>
+    <name>Dominion Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DPZ</symbol>
+    <name>Domino's</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DOV</symbol>
+    <name>Dover</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DOW</symbol>
+    <name>Dow</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DTE</symbol>
+    <name>DTE</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DUK</symbol>
+    <name>Duke Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DRE</symbol>
+    <name>Duke Realty</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+88</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DD</symbol>
+    <name>DuPont</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DXC</symbol>
+    <name>DXC Technology</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EMN</symbol>
+    <name>Eastman</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+14</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ETN</symbol>
+    <name>Eaton</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EBAY</symbol>
+    <name>eBay</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ECL</symbol>
+    <name>Ecolab</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EIX</symbol>
+    <name>Edison International</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+23</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EW</symbol>
+    <name>Edwards Lifesciences</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EA</symbol>
+    <name>Electronic Arts</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-28</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EMR</symbol>
+    <name>Emerson</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ENPH</symbol>
+    <name>Enphase</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ETR</symbol>
+    <name>Entergy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EOG</symbol>
+    <name>EOG Resources</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+65</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EPAM</symbol>
+    <name>EPAM</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EFX</symbol>
+    <name>Equifax</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EQIX</symbol>
+    <name>Equinix</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EQR</symbol>
+    <name>Equity Residential</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+60</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ESS</symbol>
+    <name>Essex</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EL</symbol>
+    <name>Estée Lauder Companies</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ETSY</symbol>
+    <name>Etsy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RE</symbol>
+    <name>Everest</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+73</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EVRG</symbol>
+    <name>Evergy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ES</symbol>
+    <name>Eversource</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EXC</symbol>
+    <name>Exelon</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EXPE</symbol>
+    <name>Expedia Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EXPD</symbol>
+    <name>Expeditors</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>EXR</symbol>
+    <name>Extra Space Storage</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+82</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>XOM</symbol>
+    <name>ExxonMobil</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+64</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FFIV</symbol>
+    <name>F5</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FDS</symbol>
+    <name>FactSet</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+50</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FAST</symbol>
+    <name>Fastenal</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FRT</symbol>
+    <name>Federal Realty</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FDX</symbol>
+    <name>FedEx</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FITB</symbol>
+    <name>Fifth Third Bank</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FRC</symbol>
+    <name>First Republic</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FE</symbol>
+    <name>FirstEnergy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FIS</symbol>
+    <name>FIS</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-31</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FISV</symbol>
+    <name>Fiserv</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-28</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FLT</symbol>
+    <name>Fleetcor</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-34</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FMC</symbol>
+    <name>FMC</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>F</symbol>
+    <name>Ford</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FTNT</symbol>
+    <name>Fortinet</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+100</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FTV</symbol>
+    <name>Fortive</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FBHS</symbol>
+    <name>Fortune Brands</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FOXA</symbol>
+    <name>Fox Corporation (Class A)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+27</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FOX</symbol>
+    <name>Fox Corporation (Class B)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+27</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>BEN</symbol>
+    <name>Franklin Templeton</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FCX</symbol>
+    <name>Freeport-McMoRan</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+14</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>AJG</symbol>
+    <name>Gallagher</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GRMN</symbol>
+    <name>Garmin</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IT</symbol>
+    <name>Gartner</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GE</symbol>
+    <name>GE</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GNRC</symbol>
+    <name>Generac</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GD</symbol>
+    <name>General Dynamics</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+60</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GIS</symbol>
+    <name>General Mills</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+17</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GPC</symbol>
+    <name>Genuine Parts</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GILD</symbol>
+    <name>Gilead</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GL</symbol>
+    <name>Globe Life</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GPN</symbol>
+    <name>Global Payments</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-35</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GM</symbol>
+    <name>GM</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GS</symbol>
+    <name>Goldman Sachs</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>GWW</symbol>
+    <name>Grainger</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HAL</symbol>
+    <name>Halliburton</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+25</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HIG</symbol>
+    <name>Hartford (The)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+67</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HAS</symbol>
+    <name>Hasbro</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HCA</symbol>
+    <name>HCA Healthcare</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PEAK</symbol>
+    <name>Healthpeak</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HSIC</symbol>
+    <name>Henry Schein</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HSY</symbol>
+    <name>Hershey's</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HES</symbol>
+    <name>Hess</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+65</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HPE</symbol>
+    <name>Hewlett Packard Enterprise</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+14</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HLT</symbol>
+    <name>Hilton</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HOLX</symbol>
+    <name>Hologic</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HD</symbol>
+    <name>Home Depot</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HON</symbol>
+    <name>Honeywell</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-27</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HRL</symbol>
+    <name>Hormel</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HST</symbol>
+    <name>Host Hotels &amp; Resorts</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HWM</symbol>
+    <name>Howmet Aerospace</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HPQ</symbol>
+    <name>HP</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HUM</symbol>
+    <name>Humana</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-28</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HII</symbol>
+    <name>Huntington Ingalls Industries</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>HBAN</symbol>
+    <name>Huntington National Bank</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IEX</symbol>
+    <name>IDEX</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IDXX</symbol>
+    <name>Idexx Laboratories</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ITW</symbol>
+    <name>Illinois Tool Works</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ILMN</symbol>
+    <name>Illumina</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>INCY</symbol>
+    <name>Incyte</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IR</symbol>
+    <name>Ingersoll Rand</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>INTC</symbol>
+    <name>Intel</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-37</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ICE</symbol>
+    <name>Intercontinental Exchange</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+86</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IBM</symbol>
+    <name>IBM</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IP</symbol>
+    <name>International Paper</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-24</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IPG</symbol>
+    <name>Interpublic Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IFF</symbol>
+    <name>International Flavors &amp; Fragrances</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-28</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>INTU</symbol>
+    <name>Intuit</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ISRG</symbol>
+    <name>Intuitive Surgical</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IVZ</symbol>
+    <name>Invesco</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IPGP</symbol>
+    <name>IPG Photonics</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-48</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IQV</symbol>
+    <name>IQVIA</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>IRM</symbol>
+    <name>Iron Mountain</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>JBHT</symbol>
+    <name>J.B. Hunt</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+96</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>JKHY</symbol>
+    <name>Jack Henry &amp; Associates</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>J</symbol>
+    <name>Jacobs</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>JNJ</symbol>
+    <name>Johnson &amp; Johnson</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>JCI</symbol>
+    <name>Johnson Controls</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>JPM</symbol>
+    <name>JPMorgan Chase</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>JNPR</symbol>
+    <name>Juniper Networks</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+62</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>K</symbol>
+    <name>Kellogg's</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KEY</symbol>
+    <name>KeyCorp</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KEYS</symbol>
+    <name>Keysight</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KMB</symbol>
+    <name>Kimberly-Clark</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KIM</symbol>
+    <name>Kimco Realty</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+79</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KMI</symbol>
+    <name>Kinder Morgan</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KLAC</symbol>
+    <name>KLA</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KHC</symbol>
+    <name>Kraft Heinz</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>KR</symbol>
+    <name>Kroger</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+35</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LHX</symbol>
+    <name>L3Harris</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LH</symbol>
+    <name>LabCorp</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LRCX</symbol>
+    <name>Lam Research</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LW</symbol>
+    <name>Lamb Weston</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-36</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LVS</symbol>
+    <name>Las Vegas Sands</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LDOS</symbol>
+    <name>Leidos</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LEN</symbol>
+    <name>Lennar</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LLY</symbol>
+    <name>Lilly</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+68</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LNC</symbol>
+    <name>Lincoln Financial</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LIN</symbol>
+    <name>Linde</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LYV</symbol>
+    <name>Live Nation Entertainment</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+27</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LKQ</symbol>
+    <name>LKQ Corporation</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LMT</symbol>
+    <name>Lockheed Martin</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>L</symbol>
+    <name>Loews Corporation</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LOW</symbol>
+    <name>Lowe's</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+97</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LUMN</symbol>
+    <name>Lumen</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LYB</symbol>
+    <name>LyondellBasell</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MTB</symbol>
+    <name>M&amp;T Bank</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MRO</symbol>
+    <name>Marathon Oil</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+65</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MPC</symbol>
+    <name>Marathon Petroleum</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MKTX</symbol>
+    <name>MarketAxess</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-48</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MAR</symbol>
+    <name>Marriott International</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+27</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MMC</symbol>
+    <name>Marsh &amp; McLennan</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MLM</symbol>
+    <name>Martin Marietta</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MAS</symbol>
+    <name>Masco</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MA</symbol>
+    <name>Mastercard</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MTCH</symbol>
+    <name>Match Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MKC</symbol>
+    <name>McCormick</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+17</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MCD</symbol>
+    <name>McDonald's</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MCK</symbol>
+    <name>McKesson</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MDT</symbol>
+    <name>Medtronic</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-24</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MRK</symbol>
+    <name>Merck</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+33</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>FB</symbol>
+    <name>Meta</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MET</symbol>
+    <name>MetLife</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MTD</symbol>
+    <name>Mettler Toledo</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MGM</symbol>
+    <name>MGM Resorts</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MCHP</symbol>
+    <name>Microchip</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MU</symbol>
+    <name>Micron</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MSFT</symbol>
+    <name>Microsoft</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MAA</symbol>
+    <name>Mid-America Apartments</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MRNA</symbol>
+    <name>Moderna</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MHK</symbol>
+    <name>Mohawk Industries</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-28</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MOH</symbol>
+    <name>Molina Healthcare</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+104</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TAP</symbol>
+    <name>Molson Coors</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MDLZ</symbol>
+    <name>Mondelez International</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MPWR</symbol>
+    <name>Monolithic Power Systems</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MNST</symbol>
+    <name>Monster Beverage</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MCO</symbol>
+    <name>Moody's</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MS</symbol>
+    <name>Morgan Stanley</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MOS</symbol>
+    <name>Mosaic</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MSI</symbol>
+    <name>Motorola Solutions</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>MSCI</symbol>
+    <name>MSCI</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NDAQ</symbol>
+    <name>Nasdaq</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NTAP</symbol>
+    <name>NetApp</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NFLX</symbol>
+    <name>Netflix</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NWL</symbol>
+    <name>Newell Brands</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NEM</symbol>
+    <name>Newmont</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NWSA</symbol>
+    <name>News Corp (Class A)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-33</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NWS</symbol>
+    <name>News Corp (Class B)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-33</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NEE</symbol>
+    <name>NextEra Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NLSN</symbol>
+    <name>Nielsen</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NKE</symbol>
+    <name>Nike</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NI</symbol>
+    <name>NiSource</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NDSN</symbol>
+    <name>Nordson</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NSC</symbol>
+    <name>Norfolk Southern</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+23</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NTRS</symbol>
+    <name>Northern Trust</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NOC</symbol>
+    <name>Northrop Grumman</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+52</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NLOK</symbol>
+    <name>NortonLifeLock</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+9</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NCLH</symbol>
+    <name>Norwegian Cruise Line Holdings</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-37</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NRG</symbol>
+    <name>NRG Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NUE</symbol>
+    <name>Nucor</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NVDA</symbol>
+    <name>Nvidia</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+51</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NVR</symbol>
+    <name>NVR</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NXPI</symbol>
+    <name>NXP</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ORLY</symbol>
+    <name>O'Reilly Automotive</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+54</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>OXY</symbol>
+    <name>Occidental Petroleum</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ODFL</symbol>
+    <name>Old Dominion</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>OMC</symbol>
+    <name>Omnicom Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>OKE</symbol>
+    <name>Oneok</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+68</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ORCL</symbol>
+    <name>Oracle</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>OGN</symbol>
+    <name>Organon</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>N/A</LatestSignalWeekly><LatestKSignalWeekly>N/A</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>OTIS</symbol>
+    <name>Otis</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PCAR</symbol>
+    <name>Paccar</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PKG</symbol>
+    <name>Packaging Corporation of America</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PARA</symbol>
+    <name>Paramount</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PH</symbol>
+    <name>Parker</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PAYX</symbol>
+    <name>Paychex</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PAYC</symbol>
+    <name>Paycom</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PYPL</symbol>
+    <name>PayPal</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-23</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PENN</symbol>
+    <name>Penn National Gaming</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-42</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PNR</symbol>
+    <name>Pentair</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PBCT</symbol>
+    <name>People's United Financial</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PEP</symbol>
+    <name>PepsiCo</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+44</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PKI</symbol>
+    <name>PerkinElmer</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PFE</symbol>
+    <name>Pfizer</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+37</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PM</symbol>
+    <name>Philip Morris International</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PSX</symbol>
+    <name>Phillips 66</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PNW</symbol>
+    <name>Pinnacle West</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PXD</symbol>
+    <name>Pioneer Natural Resources</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PNC</symbol>
+    <name>PNC Financial Services</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>POOL</symbol>
+    <name>Pool Corporation</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PPG</symbol>
+    <name>PPG Industries</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PPL</symbol>
+    <name>PPL</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PFG</symbol>
+    <name>Principal</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PG</symbol>
+    <name>Procter &amp; Gamble</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+38</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PGR</symbol>
+    <name>Progressive</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PLD</symbol>
+    <name>Prologis</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+89</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PRU</symbol>
+    <name>Prudential</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PEG</symbol>
+    <name>PSEG</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PTC</symbol>
+    <name>PTC</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PSA</symbol>
+    <name>Public Storage</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PHM</symbol>
+    <name>PulteGroup</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PVH</symbol>
+    <name>PVH</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>QRVO</symbol>
+    <name>Qorvo</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>PWR</symbol>
+    <name>Quanta</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+96</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>QCOM</symbol>
+    <name>Qualcomm</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+22</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>DGX</symbol>
+    <name>Quest Diagnostics</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RL</symbol>
+    <name>Ralph Lauren</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RJF</symbol>
+    <name>Raymond James</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RTX</symbol>
+    <name>Raytheon Technologies</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>O</symbol>
+    <name>Realty Income</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+53</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>REG</symbol>
+    <name>Regency Centers</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>REGN</symbol>
+    <name>Regeneron</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RF</symbol>
+    <name>Regions</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RSG</symbol>
+    <name>Republic Services</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RMD</symbol>
+    <name>ResMed</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RHI</symbol>
+    <name>Robert Half</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ROK</symbol>
+    <name>Rockwell Automation</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ROL</symbol>
+    <name>Rollins</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ROP</symbol>
+    <name>Roper</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ROST</symbol>
+    <name>Ross</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-30</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>RCL</symbol>
+    <name>Royal Caribbean Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SPGI</symbol>
+    <name>S&amp;P Global</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>CRM</symbol>
+    <name>Salesforce</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SBAC</symbol>
+    <name>SBA Communications</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SLB</symbol>
+    <name>Schlumberger</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>STX</symbol>
+    <name>Seagate</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+21</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SEE</symbol>
+    <name>Sealed Air</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+87</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SRE</symbol>
+    <name>Sempra Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>NOW</symbol>
+    <name>ServiceNow</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SHW</symbol>
+    <name>Sherwin-Williams</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SBNY</symbol>
+    <name>Signature Bank</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+70</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SPG</symbol>
+    <name>Simon</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SWKS</symbol>
+    <name>Skyworks</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SJM</symbol>
+    <name>Smucker</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SNA</symbol>
+    <name>Snap-on</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-28</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SEDG</symbol>
+    <name>SolarEdge</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SO</symbol>
+    <name>Southern Company</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+76</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>LUV</symbol>
+    <name>Southwest Airlines</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-33</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SWK</symbol>
+    <name>Stanley Black &amp; Decker</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-30</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SBUX</symbol>
+    <name>Starbucks</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-23</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>STT</symbol>
+    <name>State Street</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>STE</symbol>
+    <name>Steris</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SYK</symbol>
+    <name>Stryker</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SIVB</symbol>
+    <name>SVB Financial</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SYF</symbol>
+    <name>Synchrony</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SNPS</symbol>
+    <name>Synopsys</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>SYY</symbol>
+    <name>Sysco</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+8</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TMUS</symbol>
+    <name>T-Mobile</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TROW</symbol>
+    <name>T. Rowe Price</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TTWO</symbol>
+    <name>Take-Two Interactive</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TPR</symbol>
+    <name>Tapestry</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TGT</symbol>
+    <name>Target</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TEL</symbol>
+    <name>TE Connectivity</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TDY</symbol>
+    <name>Teledyne</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+2</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TFX</symbol>
+    <name>Teleflex</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-38</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TER</symbol>
+    <name>Teradyne</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TSLA</symbol>
+    <name>Tesla</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+31</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TXN</symbol>
+    <name>Texas Instruments</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TXT</symbol>
+    <name>Textron</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TMO</symbol>
+    <name>Thermo Fisher Scientific</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TJX</symbol>
+    <name>TJX Companies</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TSCO</symbol>
+    <name>Tractor Supply</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TT</symbol>
+    <name>Trane Technologies</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TDG</symbol>
+    <name>TransDigm</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TRV</symbol>
+    <name>Travelers</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TRMB</symbol>
+    <name>Trimble</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TFC</symbol>
+    <name>Truist</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TWTR</symbol>
+    <name>Twitter</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-20</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TYL</symbol>
+    <name>Tyler Technologies</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>TSN</symbol>
+    <name>Tyson</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>USB</symbol>
+    <name>U.S. Bank</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UDR</symbol>
+    <name>UDR</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+60</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ULTA</symbol>
+    <name>Ulta Beauty</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UAA</symbol>
+    <name>Under Armour (Class A)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UA</symbol>
+    <name>Under Armour (Class C)</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UNP</symbol>
+    <name>Union Pacific</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+24</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UAL</symbol>
+    <name>United Airlines</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-29</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UNH</symbol>
+    <name>UnitedHealth Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+97</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UPS</symbol>
+    <name>United Parcel Service</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+92</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>URI</symbol>
+    <name>United Rentals</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>UHS</symbol>
+    <name>Universal Health Services</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VLO</symbol>
+    <name>Valero</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+12</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VTR</symbol>
+    <name>Ventas</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VRSN</symbol>
+    <name>Verisign</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VRSK</symbol>
+    <name>Verisk</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VZ</symbol>
+    <name>Verizon</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-30</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VRTX</symbol>
+    <name>Vertex</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VFC</symbol>
+    <name>VF Corporation</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-37</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VTRS</symbol>
+    <name>Viatris</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>V</symbol>
+    <name>Visa</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-23</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VNO</symbol>
+    <name>Vornado Realty Trust</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>VMC</symbol>
+    <name>Vulcan Materials</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WAB</symbol>
+    <name>Wabtec</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WMT</symbol>
+    <name>Walmart</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WBA</symbol>
+    <name>Walgreens Boots Alliance</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+13</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WM</symbol>
+    <name>Waste Management</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WAT</symbol>
+    <name>Waters</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WEC</symbol>
+    <name>WEC Energy Group</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+16</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WFC</symbol>
+    <name>Wells Fargo</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+67</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WELL</symbol>
+    <name>Welltower</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WST</symbol>
+    <name>West Pharmaceutical Services</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WDC</symbol>
+    <name>Western Digital</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-33</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WRK</symbol>
+    <name>WestRock</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-25</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WY</symbol>
+    <name>Weyerhaeuser</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WHR</symbol>
+    <name>Whirlpool</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WMB</symbol>
+    <name>Williams</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WTW</symbol>
+    <name>Willis Towers Watson</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>WYNN</symbol>
+    <name>Wynn Resorts</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-36</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>XEL</symbol>
+    <name>Xcel Energy</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+5</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>XYL</symbol>
+    <name>Xylem</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>YUM</symbol>
+    <name>Yum! Brands</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZBRA</symbol>
+    <name>Zebra</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZBH</symbol>
+    <name>Zimmer Biomet</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-38</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZION</symbol>
+    <name>Zions Bancorp</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+80</LatestKSignalWeekly></instrument>
+  <instrument>
+    <symbol>ZTS</symbol>
+    <name>Zoetis</name>
+  <LatestDateWeekly>2022-03-30</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-10</LatestKSignalWeekly></instrument>
+</data-set>
