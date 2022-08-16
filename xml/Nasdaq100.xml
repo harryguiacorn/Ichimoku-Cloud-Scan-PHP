@@ -1,411 +1,411 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data-set>
   <instrument>
-    <symbol>AAPL</symbol>
-    <name>Apple Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+75</LatestKSignalWeekly></instrument>
+    <symbol>Activision Blizzard</symbol>
+    <name>ATVI</name>
+  </instrument>
   <instrument>
-    <symbol>MSFT</symbol>
-    <name>Microsoft Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+15</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+74</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>AMZN</symbol>
-    <name>Amazon.com Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+29</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>TSLA</symbol>
-    <name>Tesla Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+96</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+10</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>GOOG</symbol>
-    <name>Alphabet Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+8</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+70</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>GOOGL</symbol>
-    <name>Alphabet Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+8</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+70</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>NVDA</symbol>
-    <name>NVIDIA Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+30</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>FB</symbol>
-    <name>Facebook Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+33</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>PYPL</symbol>
-    <name>PayPal Holdings Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-35</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-2</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ADBE</symbol>
-    <name>Adobe Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+30</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>NFLX</symbol>
-    <name>Netflix Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+54</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CMCSA</symbol>
-    <name>Comcast Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-39</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-4</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CSCO</symbol>
-    <name>Cisco Systems Inc/Delaware</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+4</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+39</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>INTC</symbol>
-    <name>Intel Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>PEP</symbol>
-    <name>PepsiCo Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+19</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+23</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>AVGO</symbol>
-    <name>Broadcom Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+14</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>COST</symbol>
-    <name>Costco Wholesale Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+13</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+20</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>TXN</symbol>
-    <name>Texas Instruments Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>-8</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+68</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>HON</symbol>
-    <name>Honeywell International Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>INTU</symbol>
-    <name>Intuit Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+71</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>QCOM</symbol>
-    <name>QUALCOMM Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+5</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>TMUS</symbol>
-    <name>T-Mobile US Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-76</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>AMD</symbol>
-    <name>Advanced Micro Devices Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+15</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>SBUX</symbol>
-    <name>Starbucks Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-2</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MRNA</symbol>
-    <name>Moderna Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-26</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+101</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CHTR</symbol>
-    <name>Charter Communications Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-39</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+75</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>AMAT</symbol>
-    <name>Applied Materials Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+1</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ISRG</symbol>
-    <name>Intuitive Surgical Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+69</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>AMGN</symbol>
-    <name>Amgen Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>BKNG</symbol>
-    <name>Booking Holdings Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+52</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+63</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ADI</symbol>
-    <name>Analog Devices Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+39</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+75</LatestKSignalWeekly></instrument>
+    <symbol>Adobe Inc.</symbol>
+    <name>ADBE</name>
+  </instrument>
   <instrument>
     <symbol>ADP</symbol>
-    <name>Automatic Data Processing Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+60</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>GILD</symbol>
-    <name>Gilead Sciences Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-31</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+25</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MDLZ</symbol>
-    <name>Mondelez International Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+6</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>LRCX</symbol>
-    <name>Lam Research Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MELI</symbol>
-    <name>MercadoLibre Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+10</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CSX</symbol>
-    <name>CSX Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+20</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+3</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MU</symbol>
-    <name>Micron Technology Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>FISV</symbol>
-    <name>Fiserv Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-8</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ASML</symbol>
-    <name>ASML Holding NV</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+77</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>JD</symbol>
-    <name>JD.com Inc ADR</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+14</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+3</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ILMN</symbol>
-    <name>Illumina Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+12</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ZM</symbol>
-    <name>Zoom Video Communications Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-35</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ADSK</symbol>
-    <name>Autodesk Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+14</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+15</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ATVI</symbol>
-    <name>Activision Blizzard Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>REGN</symbol>
-    <name>Regeneron Pharmaceuticals Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+5</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+19</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>TEAM</symbol>
-    <name>Atlassian Corp PLC</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+104</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+134</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CRWD</symbol>
-    <name>Crowdstrike Holdings Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+81</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MRVL</symbol>
-    <name>Marvell Technology Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+23</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+77</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>IDXX</symbol>
-    <name>IDEXX Laboratories Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-41</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+79</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>DXCM</symbol>
-    <name>Dexcom Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+106</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+28</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MAR</symbol>
-    <name>Marriott International Inc/MD</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+39</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+6</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>WDAY</symbol>
-    <name>Workday Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+14</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>DOCU</symbol>
-    <name>DocuSign Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+21</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>LULU</symbol>
-    <name>Lululemon Athletica Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+42</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+18</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>NXPI</symbol>
-    <name>NXP Semiconductors NV</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+63</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>KLAC</symbol>
-    <name>KLA Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+75</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>KDP</symbol>
-    <name>Keurig Dr Pepper Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+18</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>EXC</symbol>
-    <name>Exelon Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+13</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>EBAY</symbol>
-    <name>eBay Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+13</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+41</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>VRTX</symbol>
-    <name>Vertex Pharmaceuticals Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-22</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>SNPS</symbol>
-    <name>Synopsys Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+77</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ALGN</symbol>
-    <name>Align Technology Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+69</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MNST</symbol>
-    <name>Monster Beverage Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>KHC</symbol>
-    <name>Kraft Heinz Co/The</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MTCH</symbol>
-    <name>Match Group Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-6</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+9</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ORLY</symbol>
-    <name>O'Reilly Automotive Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+37</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+33</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CDNS</symbol>
-    <name>Cadence Design Systems Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+10</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+82</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>PAYX</symbol>
-    <name>Paychex Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+26</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+60</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CTAS</symbol>
-    <name>Cintas Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+20</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>WBA</symbol>
-    <name>Walgreens Boots Alliance Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>-27</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>BIIB</symbol>
-    <name>Biogen Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-43</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-2</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>AEP</symbol>
-    <name>American Electric Power Co Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CTSH</symbol>
-    <name>Cognizant Technology Solutions Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+16</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-26</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>XLNX</symbol>
-    <name>Xilinx Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+100</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+15</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>BIDU</symbol>
-    <name>Baidu Inc ADR</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+15</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>MCHP</symbol>
-    <name>Microchip Technology Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+2</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+7</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ROST</symbol>
-    <name>Ross Stores Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-9</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>EA</symbol>
-    <name>Electronic Arts Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+7</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>OKTA</symbol>
-    <name>Okta Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+14</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-3</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>PDD</symbol>
-    <name>Pinduoduo Inc ADR</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-1</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-18</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>XEL</symbol>
-    <name>Xcel Energy Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-7</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CPRT</symbol>
-    <name>Copart Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+11</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+24</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>VRSK</symbol>
-    <name>Verisk Analytics Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+12</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>FAST</symbol>
-    <name>Fastenal Co</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+78</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>SGEN</symbol>
-    <name>Seagen Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+26</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+11</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>ANSS</symbol>
-    <name>ANSYS Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+10</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+10</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>PCAR</symbol>
-    <name>PACCAR Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-16</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>NTES</symbol>
-    <name>NetEase Inc ADR</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+20</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-15</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>SPLK</symbol>
-    <name>Splunk Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+18</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>+4</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>SWKS</symbol>
-    <name>Skyworks Solutions Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-5</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CDW</symbol>
-    <name>CDW Corp/DE</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-36</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+59</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>SIRI</symbol>
-    <name>Sirius XM Holdings Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+3</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+0</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>VRSN</symbol>
-    <name>VeriSign Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+9</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>+28</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>PTON</symbol>
-    <name>Peloton Interactive Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-61</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-27</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>DLTR</symbol>
-    <name>Dollar Tree Inc</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+13</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-11</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CERN</symbol>
-    <name>Cerner Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+6</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bullish</LatestSignalWeekly><LatestKSignalWeekly>-6</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>TCOM</symbol>
-    <name>Trip.com Group Ltd ADR</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+17</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>-17</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>CHKP</symbol>
-    <name>Check Point Software Technologies Ltd</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Neutral</LatestSignalDaily><LatestKSignalDaily>+12</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+10</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>INCY</symbol>
-    <name>Incyte Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bearish</LatestSignalDaily><LatestKSignalDaily>-41</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Neutral</LatestSignalWeekly><LatestKSignalWeekly>-53</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>FOXA</symbol>
-    <name>Fox Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+36</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+6</LatestKSignalWeekly></instrument>
-  <instrument>
-    <symbol>FOX</symbol>
-    <name>Fox Corp</name>
-  <LatestDateDaily>2021-11-08</LatestDateDaily><LatestSignalDaily>Bullish</LatestSignalDaily><LatestKSignalDaily>+37</LatestKSignalDaily><LatestDateWeekly>2021-11-08</LatestDateWeekly><LatestSignalWeekly>Bearish</LatestSignalWeekly><LatestKSignalWeekly>+6</LatestKSignalWeekly></instrument>
+    <name>ADP</name>
+  </instrument>
+  <instrument>
+    <symbol>Airbnb</symbol>
+    <name>ABNB</name>
+  </instrument>
+  <instrument>
+    <symbol>Align Technology</symbol>
+    <name>ALGN</name>
+  </instrument>
+  <instrument>
+    <symbol>Alphabet Inc. (Class A)</symbol>
+    <name>GOOGL</name>
+  </instrument>
+  <instrument>
+    <symbol>Alphabet Inc. (Class C)</symbol>
+    <name>GOOG</name>
+  </instrument>
+  <instrument>
+    <symbol>Amazon</symbol>
+    <name>AMZN</name>
+  </instrument>
+  <instrument>
+    <symbol>AMD</symbol>
+    <name>AMD</name>
+  </instrument>
+  <instrument>
+    <symbol>American Electric Power</symbol>
+    <name>AEP</name>
+  </instrument>
+  <instrument>
+    <symbol>Amgen</symbol>
+    <name>AMGN</name>
+  </instrument>
+  <instrument>
+    <symbol>Analog Devices</symbol>
+    <name>ADI</name>
+  </instrument>
+  <instrument>
+    <symbol>Ansys</symbol>
+    <name>ANSS</name>
+  </instrument>
+  <instrument>
+    <symbol>Apple Inc.</symbol>
+    <name>AAPL</name>
+  </instrument>
+  <instrument>
+    <symbol>Applied Materials</symbol>
+    <name>AMAT</name>
+  </instrument>
+  <instrument>
+    <symbol>ASML Holding</symbol>
+    <name>ASML</name>
+  </instrument>
+  <instrument>
+    <symbol>AstraZeneca</symbol>
+    <name>AZN</name>
+  </instrument>
+  <instrument>
+    <symbol>Atlassian</symbol>
+    <name>TEAM</name>
+  </instrument>
+  <instrument>
+    <symbol>Autodesk</symbol>
+    <name>ADSK</name>
+  </instrument>
+  <instrument>
+    <symbol>Baidu</symbol>
+    <name>BIDU</name>
+  </instrument>
+  <instrument>
+    <symbol>Biogen</symbol>
+    <name>BIIB</name>
+  </instrument>
+  <instrument>
+    <symbol>Booking Holdings</symbol>
+    <name>BKNG</name>
+  </instrument>
+  <instrument>
+    <symbol>Broadcom Inc.</symbol>
+    <name>AVGO</name>
+  </instrument>
+  <instrument>
+    <symbol>Cadence Design Systems</symbol>
+    <name>CDNS</name>
+  </instrument>
+  <instrument>
+    <symbol>Charter Communications</symbol>
+    <name>CHTR</name>
+  </instrument>
+  <instrument>
+    <symbol>Cintas</symbol>
+    <name>CTAS</name>
+  </instrument>
+  <instrument>
+    <symbol>Cisco</symbol>
+    <name>CSCO</name>
+  </instrument>
+  <instrument>
+    <symbol>Cognizant</symbol>
+    <name>CTSH</name>
+  </instrument>
+  <instrument>
+    <symbol>Comcast</symbol>
+    <name>CMCSA</name>
+  </instrument>
+  <instrument>
+    <symbol>Constellation Energy</symbol>
+    <name>CEG</name>
+  </instrument>
+  <instrument>
+    <symbol>Copart</symbol>
+    <name>CPRT</name>
+  </instrument>
+  <instrument>
+    <symbol>Costco</symbol>
+    <name>COST</name>
+  </instrument>
+  <instrument>
+    <symbol>CrowdStrike</symbol>
+    <name>CRWD</name>
+  </instrument>
+  <instrument>
+    <symbol>CSX Corporation</symbol>
+    <name>CSX</name>
+  </instrument>
+  <instrument>
+    <symbol>Datadog</symbol>
+    <name>DDOG</name>
+  </instrument>
+  <instrument>
+    <symbol>DexCom</symbol>
+    <name>DXCM</name>
+  </instrument>
+  <instrument>
+    <symbol>DocuSign</symbol>
+    <name>DOCU</name>
+  </instrument>
+  <instrument>
+    <symbol>Dollar Tree</symbol>
+    <name>DLTR</name>
+  </instrument>
+  <instrument>
+    <symbol>eBay</symbol>
+    <name>EBAY</name>
+  </instrument>
+  <instrument>
+    <symbol>Electronic Arts</symbol>
+    <name>EA</name>
+  </instrument>
+  <instrument>
+    <symbol>Exelon</symbol>
+    <name>EXC</name>
+  </instrument>
+  <instrument>
+    <symbol>Fastenal</symbol>
+    <name>FAST</name>
+  </instrument>
+  <instrument>
+    <symbol>Fiserv</symbol>
+    <name>FISV</name>
+  </instrument>
+  <instrument>
+    <symbol>Fortinet</symbol>
+    <name>FTNT</name>
+  </instrument>
+  <instrument>
+    <symbol>Gilead Sciences</symbol>
+    <name>GILD</name>
+  </instrument>
+  <instrument>
+    <symbol>Honeywell</symbol>
+    <name>HON</name>
+  </instrument>
+  <instrument>
+    <symbol>Idexx Laboratories</symbol>
+    <name>IDXX</name>
+  </instrument>
+  <instrument>
+    <symbol>Illumina, Inc.</symbol>
+    <name>ILMN</name>
+  </instrument>
+  <instrument>
+    <symbol>Intel</symbol>
+    <name>INTC</name>
+  </instrument>
+  <instrument>
+    <symbol>Intuit</symbol>
+    <name>INTU</name>
+  </instrument>
+  <instrument>
+    <symbol>Intuitive Surgical</symbol>
+    <name>ISRG</name>
+  </instrument>
+  <instrument>
+    <symbol>JD.com</symbol>
+    <name>JD</name>
+  </instrument>
+  <instrument>
+    <symbol>Keurig Dr Pepper</symbol>
+    <name>KDP</name>
+  </instrument>
+  <instrument>
+    <symbol>KLA Corporation</symbol>
+    <name>KLAC</name>
+  </instrument>
+  <instrument>
+    <symbol>Kraft Heinz</symbol>
+    <name>KHC</name>
+  </instrument>
+  <instrument>
+    <symbol>Lam Research</symbol>
+    <name>LRCX</name>
+  </instrument>
+  <instrument>
+    <symbol>Lucid Motors</symbol>
+    <name>LCID</name>
+  </instrument>
+  <instrument>
+    <symbol>Lululemon</symbol>
+    <name>LULU</name>
+  </instrument>
+  <instrument>
+    <symbol>Marriott International</symbol>
+    <name>MAR</name>
+  </instrument>
+  <instrument>
+    <symbol>Marvell Technology</symbol>
+    <name>MRVL</name>
+  </instrument>
+  <instrument>
+    <symbol>Match Group</symbol>
+    <name>MTCH</name>
+  </instrument>
+  <instrument>
+    <symbol>MercadoLibre</symbol>
+    <name>MELI</name>
+  </instrument>
+  <instrument>
+    <symbol>Meta Platforms</symbol>
+    <name>META</name>
+  </instrument>
+  <instrument>
+    <symbol>Microchip Technology</symbol>
+    <name>MCHP</name>
+  </instrument>
+  <instrument>
+    <symbol>Micron Technology</symbol>
+    <name>MU</name>
+  </instrument>
+  <instrument>
+    <symbol>Microsoft</symbol>
+    <name>MSFT</name>
+  </instrument>
+  <instrument>
+    <symbol>Moderna</symbol>
+    <name>MRNA</name>
+  </instrument>
+  <instrument>
+    <symbol>Mondelēz International</symbol>
+    <name>MDLZ</name>
+  </instrument>
+  <instrument>
+    <symbol>Monster Beverage</symbol>
+    <name>MNST</name>
+  </instrument>
+  <instrument>
+    <symbol>NetEase</symbol>
+    <name>NTES</name>
+  </instrument>
+  <instrument>
+    <symbol>Netflix</symbol>
+    <name>NFLX</name>
+  </instrument>
+  <instrument>
+    <symbol>Nvidia</symbol>
+    <name>NVDA</name>
+  </instrument>
+  <instrument>
+    <symbol>NXP</symbol>
+    <name>NXPI</name>
+  </instrument>
+  <instrument>
+    <symbol>O&apos;Reilly Automotive</symbol>
+    <name>ORLY</name>
+  </instrument>
+  <instrument>
+    <symbol>Okta, Inc.</symbol>
+    <name>OKTA</name>
+  </instrument>
+  <instrument>
+    <symbol>Old Dominion Freight Line</symbol>
+    <name>ODFL</name>
+  </instrument>
+  <instrument>
+    <symbol>Paccar</symbol>
+    <name>PCAR</name>
+  </instrument>
+  <instrument>
+    <symbol>Palo Alto Networks</symbol>
+    <name>PANW</name>
+  </instrument>
+  <instrument>
+    <symbol>Paychex</symbol>
+    <name>PAYX</name>
+  </instrument>
+  <instrument>
+    <symbol>PayPal</symbol>
+    <name>PYPL</name>
+  </instrument>
+  <instrument>
+    <symbol>PepsiCo</symbol>
+    <name>PEP</name>
+  </instrument>
+  <instrument>
+    <symbol>Pinduoduo</symbol>
+    <name>PDD</name>
+  </instrument>
+  <instrument>
+    <symbol>Qualcomm</symbol>
+    <name>QCOM</name>
+  </instrument>
+  <instrument>
+    <symbol>Regeneron</symbol>
+    <name>REGN</name>
+  </instrument>
+  <instrument>
+    <symbol>Ross Stores</symbol>
+    <name>ROST</name>
+  </instrument>
+  <instrument>
+    <symbol>Seagen</symbol>
+    <name>SGEN</name>
+  </instrument>
+  <instrument>
+    <symbol>Sirius XM</symbol>
+    <name>SIRI</name>
+  </instrument>
+  <instrument>
+    <symbol>Skyworks Solutions</symbol>
+    <name>SWKS</name>
+  </instrument>
+  <instrument>
+    <symbol>Splunk</symbol>
+    <name>SPLK</name>
+  </instrument>
+  <instrument>
+    <symbol>Starbucks</symbol>
+    <name>SBUX</name>
+  </instrument>
+  <instrument>
+    <symbol>Synopsys</symbol>
+    <name>SNPS</name>
+  </instrument>
+  <instrument>
+    <symbol>T-Mobile US</symbol>
+    <name>TMUS</name>
+  </instrument>
+  <instrument>
+    <symbol>Tesla, Inc.</symbol>
+    <name>TSLA</name>
+  </instrument>
+  <instrument>
+    <symbol>Texas Instruments</symbol>
+    <name>TXN</name>
+  </instrument>
+  <instrument>
+    <symbol>Verisign</symbol>
+    <name>VRSN</name>
+  </instrument>
+  <instrument>
+    <symbol>Verisk</symbol>
+    <name>VRSK</name>
+  </instrument>
+  <instrument>
+    <symbol>Vertex Pharmaceuticals</symbol>
+    <name>VRTX</name>
+  </instrument>
+  <instrument>
+    <symbol>Walgreens Boots Alliance</symbol>
+    <name>WBA</name>
+  </instrument>
+  <instrument>
+    <symbol>Workday, Inc.</symbol>
+    <name>WDAY</name>
+  </instrument>
+  <instrument>
+    <symbol>Xcel Energy</symbol>
+    <name>XEL</name>
+  </instrument>
+  <instrument>
+    <symbol>Zoom Video Communications</symbol>
+    <name>ZM</name>
+  </instrument>
+  <instrument>
+    <symbol>Zscaler</symbol>
+    <name>ZS</name>
+  </instrument>
 </data-set>
