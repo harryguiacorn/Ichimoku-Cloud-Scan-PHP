@@ -1,411 +1,411 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data-set>
   <instrument>
-    <symbol>Activision Blizzard</symbol>
-    <name>ATVI</name>
+    <symbol>ATVI</symbol>
+    <name>Activision Blizzard</name>
   </instrument>
   <instrument>
-    <symbol>Adobe Inc.</symbol>
-    <name>ADBE</name>
+    <symbol>ADBE</symbol>
+    <name>Adobe Inc.</name>
   </instrument>
   <instrument>
     <symbol>ADP</symbol>
     <name>ADP</name>
   </instrument>
   <instrument>
-    <symbol>Airbnb</symbol>
-    <name>ABNB</name>
+    <symbol>ABNB</symbol>
+    <name>Airbnb</name>
   </instrument>
   <instrument>
-    <symbol>Align Technology</symbol>
-    <name>ALGN</name>
+    <symbol>ALGN</symbol>
+    <name>Align Technology</name>
   </instrument>
   <instrument>
-    <symbol>Alphabet Inc. (Class A)</symbol>
-    <name>GOOGL</name>
+    <symbol>GOOGL</symbol>
+    <name>Alphabet Inc. (Class A)</name>
   </instrument>
   <instrument>
-    <symbol>Alphabet Inc. (Class C)</symbol>
-    <name>GOOG</name>
+    <symbol>GOOG</symbol>
+    <name>Alphabet Inc. (Class C)</name>
   </instrument>
   <instrument>
-    <symbol>Amazon</symbol>
-    <name>AMZN</name>
+    <symbol>AMZN</symbol>
+    <name>Amazon</name>
   </instrument>
   <instrument>
     <symbol>AMD</symbol>
     <name>AMD</name>
   </instrument>
   <instrument>
-    <symbol>American Electric Power</symbol>
-    <name>AEP</name>
+    <symbol>AEP</symbol>
+    <name>American Electric Power</name>
   </instrument>
   <instrument>
-    <symbol>Amgen</symbol>
-    <name>AMGN</name>
+    <symbol>AMGN</symbol>
+    <name>Amgen</name>
   </instrument>
   <instrument>
-    <symbol>Analog Devices</symbol>
-    <name>ADI</name>
+    <symbol>ADI</symbol>
+    <name>Analog Devices</name>
   </instrument>
   <instrument>
-    <symbol>Ansys</symbol>
-    <name>ANSS</name>
+    <symbol>ANSS</symbol>
+    <name>Ansys</name>
   </instrument>
   <instrument>
-    <symbol>Apple Inc.</symbol>
-    <name>AAPL</name>
+    <symbol>AAPL</symbol>
+    <name>Apple Inc.</name>
   </instrument>
   <instrument>
-    <symbol>Applied Materials</symbol>
-    <name>AMAT</name>
+    <symbol>AMAT</symbol>
+    <name>Applied Materials</name>
   </instrument>
   <instrument>
-    <symbol>ASML Holding</symbol>
-    <name>ASML</name>
+    <symbol>ASML</symbol>
+    <name>ASML Holding</name>
   </instrument>
   <instrument>
-    <symbol>AstraZeneca</symbol>
-    <name>AZN</name>
+    <symbol>AZN</symbol>
+    <name>AstraZeneca</name>
   </instrument>
   <instrument>
-    <symbol>Atlassian</symbol>
-    <name>TEAM</name>
+    <symbol>TEAM</symbol>
+    <name>Atlassian</name>
   </instrument>
   <instrument>
-    <symbol>Autodesk</symbol>
-    <name>ADSK</name>
+    <symbol>ADSK</symbol>
+    <name>Autodesk</name>
   </instrument>
   <instrument>
-    <symbol>Baidu</symbol>
-    <name>BIDU</name>
+    <symbol>BIDU</symbol>
+    <name>Baidu</name>
   </instrument>
   <instrument>
-    <symbol>Biogen</symbol>
-    <name>BIIB</name>
+    <symbol>BIIB</symbol>
+    <name>Biogen</name>
   </instrument>
   <instrument>
-    <symbol>Booking Holdings</symbol>
-    <name>BKNG</name>
+    <symbol>BKNG</symbol>
+    <name>Booking Holdings</name>
   </instrument>
   <instrument>
-    <symbol>Broadcom Inc.</symbol>
-    <name>AVGO</name>
+    <symbol>AVGO</symbol>
+    <name>Broadcom Inc.</name>
   </instrument>
   <instrument>
-    <symbol>Cadence Design Systems</symbol>
-    <name>CDNS</name>
+    <symbol>CDNS</symbol>
+    <name>Cadence Design Systems</name>
   </instrument>
   <instrument>
-    <symbol>Charter Communications</symbol>
-    <name>CHTR</name>
+    <symbol>CHTR</symbol>
+    <name>Charter Communications</name>
   </instrument>
   <instrument>
-    <symbol>Cintas</symbol>
-    <name>CTAS</name>
+    <symbol>CTAS</symbol>
+    <name>Cintas</name>
   </instrument>
   <instrument>
-    <symbol>Cisco</symbol>
-    <name>CSCO</name>
+    <symbol>CSCO</symbol>
+    <name>Cisco</name>
   </instrument>
   <instrument>
-    <symbol>Cognizant</symbol>
-    <name>CTSH</name>
+    <symbol>CTSH</symbol>
+    <name>Cognizant</name>
   </instrument>
   <instrument>
-    <symbol>Comcast</symbol>
-    <name>CMCSA</name>
+    <symbol>CMCSA</symbol>
+    <name>Comcast</name>
   </instrument>
   <instrument>
-    <symbol>Constellation Energy</symbol>
-    <name>CEG</name>
+    <symbol>CEG</symbol>
+    <name>Constellation Energy</name>
   </instrument>
   <instrument>
-    <symbol>Copart</symbol>
-    <name>CPRT</name>
+    <symbol>CPRT</symbol>
+    <name>Copart</name>
   </instrument>
   <instrument>
-    <symbol>Costco</symbol>
-    <name>COST</name>
+    <symbol>COST</symbol>
+    <name>Costco</name>
   </instrument>
   <instrument>
-    <symbol>CrowdStrike</symbol>
-    <name>CRWD</name>
+    <symbol>CRWD</symbol>
+    <name>CrowdStrike</name>
   </instrument>
   <instrument>
-    <symbol>CSX Corporation</symbol>
-    <name>CSX</name>
+    <symbol>CSX</symbol>
+    <name>CSX Corporation</name>
   </instrument>
   <instrument>
-    <symbol>Datadog</symbol>
-    <name>DDOG</name>
+    <symbol>DDOG</symbol>
+    <name>Datadog</name>
   </instrument>
   <instrument>
-    <symbol>DexCom</symbol>
-    <name>DXCM</name>
+    <symbol>DXCM</symbol>
+    <name>DexCom</name>
   </instrument>
   <instrument>
-    <symbol>DocuSign</symbol>
-    <name>DOCU</name>
+    <symbol>DOCU</symbol>
+    <name>DocuSign</name>
   </instrument>
   <instrument>
-    <symbol>Dollar Tree</symbol>
-    <name>DLTR</name>
+    <symbol>DLTR</symbol>
+    <name>Dollar Tree</name>
   </instrument>
   <instrument>
-    <symbol>eBay</symbol>
-    <name>EBAY</name>
+    <symbol>EBAY</symbol>
+    <name>eBay</name>
   </instrument>
   <instrument>
-    <symbol>Electronic Arts</symbol>
-    <name>EA</name>
+    <symbol>EA</symbol>
+    <name>Electronic Arts</name>
   </instrument>
   <instrument>
-    <symbol>Exelon</symbol>
-    <name>EXC</name>
+    <symbol>EXC</symbol>
+    <name>Exelon</name>
   </instrument>
   <instrument>
-    <symbol>Fastenal</symbol>
-    <name>FAST</name>
+    <symbol>FAST</symbol>
+    <name>Fastenal</name>
   </instrument>
   <instrument>
-    <symbol>Fiserv</symbol>
-    <name>FISV</name>
+    <symbol>FISV</symbol>
+    <name>Fiserv</name>
   </instrument>
   <instrument>
-    <symbol>Fortinet</symbol>
-    <name>FTNT</name>
+    <symbol>FTNT</symbol>
+    <name>Fortinet</name>
   </instrument>
   <instrument>
-    <symbol>Gilead Sciences</symbol>
-    <name>GILD</name>
+    <symbol>GILD</symbol>
+    <name>Gilead Sciences</name>
   </instrument>
   <instrument>
-    <symbol>Honeywell</symbol>
-    <name>HON</name>
+    <symbol>HON</symbol>
+    <name>Honeywell</name>
   </instrument>
   <instrument>
-    <symbol>Idexx Laboratories</symbol>
-    <name>IDXX</name>
+    <symbol>IDXX</symbol>
+    <name>Idexx Laboratories</name>
   </instrument>
   <instrument>
-    <symbol>Illumina, Inc.</symbol>
-    <name>ILMN</name>
+    <symbol>ILMN</symbol>
+    <name>Illumina, Inc.</name>
   </instrument>
   <instrument>
-    <symbol>Intel</symbol>
-    <name>INTC</name>
+    <symbol>INTC</symbol>
+    <name>Intel</name>
   </instrument>
   <instrument>
-    <symbol>Intuit</symbol>
-    <name>INTU</name>
+    <symbol>INTU</symbol>
+    <name>Intuit</name>
   </instrument>
   <instrument>
-    <symbol>Intuitive Surgical</symbol>
-    <name>ISRG</name>
+    <symbol>ISRG</symbol>
+    <name>Intuitive Surgical</name>
   </instrument>
   <instrument>
-    <symbol>JD.com</symbol>
-    <name>JD</name>
+    <symbol>JD</symbol>
+    <name>JD.com</name>
   </instrument>
   <instrument>
-    <symbol>Keurig Dr Pepper</symbol>
-    <name>KDP</name>
+    <symbol>KDP</symbol>
+    <name>Keurig Dr Pepper</name>
   </instrument>
   <instrument>
-    <symbol>KLA Corporation</symbol>
-    <name>KLAC</name>
+    <symbol>KLAC</symbol>
+    <name>KLA Corporation</name>
   </instrument>
   <instrument>
-    <symbol>Kraft Heinz</symbol>
-    <name>KHC</name>
+    <symbol>KHC</symbol>
+    <name>Kraft Heinz</name>
   </instrument>
   <instrument>
-    <symbol>Lam Research</symbol>
-    <name>LRCX</name>
+    <symbol>LRCX</symbol>
+    <name>Lam Research</name>
   </instrument>
   <instrument>
-    <symbol>Lucid Motors</symbol>
-    <name>LCID</name>
+    <symbol>LCID</symbol>
+    <name>Lucid Motors</name>
   </instrument>
   <instrument>
-    <symbol>Lululemon</symbol>
-    <name>LULU</name>
+    <symbol>LULU</symbol>
+    <name>Lululemon</name>
   </instrument>
   <instrument>
-    <symbol>Marriott International</symbol>
-    <name>MAR</name>
+    <symbol>MAR</symbol>
+    <name>Marriott International</name>
   </instrument>
   <instrument>
-    <symbol>Marvell Technology</symbol>
-    <name>MRVL</name>
+    <symbol>MRVL</symbol>
+    <name>Marvell Technology</name>
   </instrument>
   <instrument>
-    <symbol>Match Group</symbol>
-    <name>MTCH</name>
+    <symbol>MTCH</symbol>
+    <name>Match Group</name>
   </instrument>
   <instrument>
-    <symbol>MercadoLibre</symbol>
-    <name>MELI</name>
+    <symbol>MELI</symbol>
+    <name>MercadoLibre</name>
   </instrument>
   <instrument>
-    <symbol>Meta Platforms</symbol>
-    <name>META</name>
+    <symbol>META</symbol>
+    <name>Meta Platforms</name>
   </instrument>
   <instrument>
-    <symbol>Microchip Technology</symbol>
-    <name>MCHP</name>
+    <symbol>MCHP</symbol>
+    <name>Microchip Technology</name>
   </instrument>
   <instrument>
-    <symbol>Micron Technology</symbol>
-    <name>MU</name>
+    <symbol>MU</symbol>
+    <name>Micron Technology</name>
   </instrument>
   <instrument>
-    <symbol>Microsoft</symbol>
-    <name>MSFT</name>
+    <symbol>MSFT</symbol>
+    <name>Microsoft</name>
   </instrument>
   <instrument>
-    <symbol>Moderna</symbol>
-    <name>MRNA</name>
+    <symbol>MRNA</symbol>
+    <name>Moderna</name>
   </instrument>
   <instrument>
-    <symbol>Mondelēz International</symbol>
-    <name>MDLZ</name>
+    <symbol>MDLZ</symbol>
+    <name>Mondelēz International</name>
   </instrument>
   <instrument>
-    <symbol>Monster Beverage</symbol>
-    <name>MNST</name>
+    <symbol>MNST</symbol>
+    <name>Monster Beverage</name>
   </instrument>
   <instrument>
-    <symbol>NetEase</symbol>
-    <name>NTES</name>
+    <symbol>NTES</symbol>
+    <name>NetEase</name>
   </instrument>
   <instrument>
-    <symbol>Netflix</symbol>
-    <name>NFLX</name>
+    <symbol>NFLX</symbol>
+    <name>Netflix</name>
   </instrument>
   <instrument>
-    <symbol>Nvidia</symbol>
-    <name>NVDA</name>
+    <symbol>NVDA</symbol>
+    <name>Nvidia</name>
   </instrument>
   <instrument>
-    <symbol>NXP</symbol>
-    <name>NXPI</name>
+    <symbol>NXPI</symbol>
+    <name>NXP</name>
   </instrument>
   <instrument>
-    <symbol>O&apos;Reilly Automotive</symbol>
-    <name>ORLY</name>
+    <symbol>ORLY</symbol>
+    <name>O&apos;Reilly Automotive</name>
   </instrument>
   <instrument>
-    <symbol>Okta, Inc.</symbol>
-    <name>OKTA</name>
+    <symbol>OKTA</symbol>
+    <name>Okta, Inc.</name>
   </instrument>
   <instrument>
-    <symbol>Old Dominion Freight Line</symbol>
-    <name>ODFL</name>
+    <symbol>ODFL</symbol>
+    <name>Old Dominion Freight Line</name>
   </instrument>
   <instrument>
-    <symbol>Paccar</symbol>
-    <name>PCAR</name>
+    <symbol>PCAR</symbol>
+    <name>Paccar</name>
   </instrument>
   <instrument>
-    <symbol>Palo Alto Networks</symbol>
-    <name>PANW</name>
+    <symbol>PANW</symbol>
+    <name>Palo Alto Networks</name>
   </instrument>
   <instrument>
-    <symbol>Paychex</symbol>
-    <name>PAYX</name>
+    <symbol>PAYX</symbol>
+    <name>Paychex</name>
   </instrument>
   <instrument>
-    <symbol>PayPal</symbol>
-    <name>PYPL</name>
+    <symbol>PYPL</symbol>
+    <name>PayPal</name>
   </instrument>
   <instrument>
-    <symbol>PepsiCo</symbol>
-    <name>PEP</name>
+    <symbol>PEP</symbol>
+    <name>PepsiCo</name>
   </instrument>
   <instrument>
-    <symbol>Pinduoduo</symbol>
-    <name>PDD</name>
+    <symbol>PDD</symbol>
+    <name>Pinduoduo</name>
   </instrument>
   <instrument>
-    <symbol>Qualcomm</symbol>
-    <name>QCOM</name>
+    <symbol>QCOM</symbol>
+    <name>Qualcomm</name>
   </instrument>
   <instrument>
-    <symbol>Regeneron</symbol>
-    <name>REGN</name>
+    <symbol>REGN</symbol>
+    <name>Regeneron</name>
   </instrument>
   <instrument>
-    <symbol>Ross Stores</symbol>
-    <name>ROST</name>
+    <symbol>ROST</symbol>
+    <name>Ross Stores</name>
   </instrument>
   <instrument>
-    <symbol>Seagen</symbol>
-    <name>SGEN</name>
+    <symbol>SGEN</symbol>
+    <name>Seagen</name>
   </instrument>
   <instrument>
-    <symbol>Sirius XM</symbol>
-    <name>SIRI</name>
+    <symbol>SIRI</symbol>
+    <name>Sirius XM</name>
   </instrument>
   <instrument>
-    <symbol>Skyworks Solutions</symbol>
-    <name>SWKS</name>
+    <symbol>SWKS</symbol>
+    <name>Skyworks Solutions</name>
   </instrument>
   <instrument>
-    <symbol>Splunk</symbol>
-    <name>SPLK</name>
+    <symbol>SPLK</symbol>
+    <name>Splunk</name>
   </instrument>
   <instrument>
-    <symbol>Starbucks</symbol>
-    <name>SBUX</name>
+    <symbol>SBUX</symbol>
+    <name>Starbucks</name>
   </instrument>
   <instrument>
-    <symbol>Synopsys</symbol>
-    <name>SNPS</name>
+    <symbol>SNPS</symbol>
+    <name>Synopsys</name>
   </instrument>
   <instrument>
-    <symbol>T-Mobile US</symbol>
-    <name>TMUS</name>
+    <symbol>TMUS</symbol>
+    <name>T-Mobile US</name>
   </instrument>
   <instrument>
-    <symbol>Tesla, Inc.</symbol>
-    <name>TSLA</name>
+    <symbol>TSLA</symbol>
+    <name>Tesla, Inc.</name>
   </instrument>
   <instrument>
-    <symbol>Texas Instruments</symbol>
-    <name>TXN</name>
+    <symbol>TXN</symbol>
+    <name>Texas Instruments</name>
   </instrument>
   <instrument>
-    <symbol>Verisign</symbol>
-    <name>VRSN</name>
+    <symbol>VRSN</symbol>
+    <name>Verisign</name>
   </instrument>
   <instrument>
-    <symbol>Verisk</symbol>
-    <name>VRSK</name>
+    <symbol>VRSK</symbol>
+    <name>Verisk</name>
   </instrument>
   <instrument>
-    <symbol>Vertex Pharmaceuticals</symbol>
-    <name>VRTX</name>
+    <symbol>VRTX</symbol>
+    <name>Vertex Pharmaceuticals</name>
   </instrument>
   <instrument>
-    <symbol>Walgreens Boots Alliance</symbol>
-    <name>WBA</name>
+    <symbol>WBA</symbol>
+    <name>Walgreens Boots Alliance</name>
   </instrument>
   <instrument>
-    <symbol>Workday, Inc.</symbol>
-    <name>WDAY</name>
+    <symbol>WDAY</symbol>
+    <name>Workday, Inc.</name>
   </instrument>
   <instrument>
-    <symbol>Xcel Energy</symbol>
-    <name>XEL</name>
+    <symbol>XEL</symbol>
+    <name>Xcel Energy</name>
   </instrument>
   <instrument>
-    <symbol>Zoom Video Communications</symbol>
-    <name>ZM</name>
+    <symbol>ZM</symbol>
+    <name>Zoom Video Communications</name>
   </instrument>
   <instrument>
-    <symbol>Zscaler</symbol>
-    <name>ZS</name>
+    <symbol>ZS</symbol>
+    <name>Zscaler</name>
   </instrument>
 </data-set>
