@@ -1,28 +1,29 @@
 <!doctype html>
-
 <html lang="en">
-<head>
-	<link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css" integrity="sha384-UQiGfs9ICog+LwheBSRCt1o5cbyKIHbwjWscjemyBMT9YCUMZffs6UqUTd0hObXD" crossorigin="anonymous">
-	<meta charset="utf-8">
 
-	<title>Index</title>
-	<meta name="description" content="Index">
+<head>
+	<meta charset="utf-8">
+   	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Countrol Panel">
 	<meta name="author" content="SitePoint">
+	<link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css" integrity="sha384-UQiGfs9ICog+LwheBSRCt1o5cbyKIHbwjWscjemyBMT9YCUMZffs6UqUTd0hObXD" crossorigin="anonymous">
+	<title>Control Panel</title>
+	<link rel="shortcut icon" href="icon/cloud-icon.png">
 </head>
+
 <body>
 	<style scoped="">
-        .button-default {
-            border-radius: 4px;
-            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+		.button-default {
+			border-radius: 4px;
+			text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
 			width: 300px;
-        }
-
-    </style>
+		}
+	</style>
 	<br>
 	<a class="button-default pure-button" href="viewspx500.php">View S&P 500</a>
 	<a class="button-default pure-button" href="updatespxd1.php">Update S&P 500 Daily(Part 1)</a>
 	<a class="button-default pure-button" href="updatespxd2.php">Update S&P 500 Daily(Part 2)</a> <br>
-	<a class="button-default pure-button" href="updatespxd3.php">Update S&P 500 Daily(Part 3)</a> 
+	<a class="button-default pure-button" href="updatespxd3.php">Update S&P 500 Daily(Part 3)</a>
 	<a class="button-default pure-button" href="updatespxd4.php">Update S&P 500 Daily(Part 4)</a>
 	<a class="button-default pure-button" href="updatespxd5.php">Update S&P 500 Daily(Part 5)</a> <br>
 	<a class="button-default pure-button" href="updatespxw1.php">Update S&P 500 Weekly(Part 1)</a>
@@ -57,4 +58,5 @@
 
 	<br>
 </body>
+
 </html>
