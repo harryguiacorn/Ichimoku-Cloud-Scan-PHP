@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 *.gsheet
 
 .tmp.driveupload/
+=======
+# Ignore Mac system files
+.DS_store
+
+.csv
+
+>>>>>>> 97199ab40f24189d45b0d79ceebffd8e15b09710
