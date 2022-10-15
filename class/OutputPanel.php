@@ -415,6 +415,7 @@ value="in cloud">In Cloud-->
 	}
 	private function _createTableContentTextDirection($__strDirection)
 	{
+		if (is_null($__strDirection)) return;
 		switch (strtolower($__strDirection))
 		{
 			case BULLISH:

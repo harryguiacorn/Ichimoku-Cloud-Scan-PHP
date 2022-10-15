@@ -1,7 +1,7 @@
 <?php
-//define('HISTORICAL_URL_YAHOO_FINANCE', 'http://real-chart.finance.yahoo.com/table.csv?s=');
+//define('HISTORICAL_URL_YAHOO_FINANCE', 'https://real-chart.finance.yahoo.com/table.csv?s=');
 define('HISTORICAL_URL_YAHOO_FINANCE', 'https://query1.finance.yahoo.com/v7/finance/download/');
-define('HISTORICAL_URL_STOOQ', 'http://stooq.com/q/d/l/?s=');
+define('HISTORICAL_URL_STOOQ', 'https://stooq.com/q/d/l/?s=');
 define('ALL','all');
 define('BULLISH','bullish');
 define('BEARISH','bearish');
