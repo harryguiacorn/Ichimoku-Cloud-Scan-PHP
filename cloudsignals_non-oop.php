@@ -63,7 +63,7 @@ function _outputSummaryTable($_arrayOHLCSeries,$__filter=ALL)
 	}
 	if (!isset($__filter)) $__filter = ALL;
 	?>
-	<h1>Cloud Signals</h1>
+	<h1 class = "title">Cloud Signals</h1>
 	<h2>FTSE 100 shares</h2>
 	<form id="cloudSerivce" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>"> 
 
@@ -414,7 +414,7 @@ function _outputTable($__OHLCSeries,$__signalCollector,$__showLatest=true,$__sho
 	if($__showLatest)
 	{
 	?>
-	<h1>Latest Signal</h1>
+	<h1 class = "title">Latest Signal</h1>
 	<table 
 		<tr>
 			<th><?php echo "Symbol" ?></th>
@@ -434,7 +434,7 @@ function _outputTable($__OHLCSeries,$__signalCollector,$__showLatest=true,$__sho
 	if($__showHistory)
 	{
 		echo "
-		<h1>Signal History</h1>
+		<h1 class = \"title\">Signal History</h1>
 		<table ";
 		for($__i=0; $__i < count($__OHLCSeries->arrayOHLC); $__i++)
 		{

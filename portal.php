@@ -15,7 +15,7 @@
 		<link rel='stylesheet' href='css/style_cloudservice.css'>
 	</head>
 	
-	<h1>Cloud Signals</h1>
+	<h1 class = "title">Cloud Signals</h1>
 	<h2>Symbol</h2>
 	<div>
 	<form action="cloudsignals.php" method="get">

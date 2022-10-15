@@ -43,7 +43,7 @@ class OutputPanel
 		
 ?>
 
-<h1><?php echo $__title ?></h1>
+<h1 class = "title"><?php echo $__title ?></h1>
 <h2><?php echo $__subtitle ?></h2>
 
 <form id="cloudSerivce" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>"> 
@@ -443,7 +443,7 @@ value="in cloud">In Cloud-->
 		if($__showLatest)
 		{
 		?>
-		<h1>Latest Signal</h1>
+		<h1 class = "title">Latest Signal</h1>
 		<table 
 			<tr>
 				<th><?php echo "Symbol" ?></th>
@@ -463,7 +463,7 @@ value="in cloud">In Cloud-->
 		if($__showHistory)
 		{
 			echo "
-			<h1>Signal History</h1>
+			<h1 class = \"title\">Signal History</h1>
 			<table ";
 			for($__i=0; $__i < count($__OHLCSeries -> arrayOHLC); $__i++)
 			{
