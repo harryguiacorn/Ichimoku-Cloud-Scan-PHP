@@ -4,11 +4,12 @@
 		<title>Cloud Signals</title>
 		<link rel="shortcut icon" href="icon/cloud-icon.png">
 		<!---->
-		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<script src="js/cloudsignals.js"></script>
-		<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/pure-min.css" integrity="sha384-yHIFVG6ClnONEA5yB5DJXfW2/KC173DIQrYoZMEtBvGzmf0PKiGyNEqe9N6BNDBH" crossorigin="anonymous">
+
 		<link rel="stylesheet" href="font/sansation/sansation_light/stylesheet.css" type="text/css" charset="utf-8" />
 		<link rel="stylesheet" href="font/raleway/stylesheet.css" type="text/css" charset="utf-8" />
 		<link rel='stylesheet' href='css/style_cloudservice.css'>
@@ -19,7 +20,7 @@
 require 'class/oop_classes.php';
 define('DATA_PATH','data/ftse100/');
 define('XML_PATH_STOCK_LIST','xml/FTSE100List.xml');
-define('HISTORICAL_URL', 'http://real-chart.finance.yahoo.com/table.csv?s=');
+define('HISTORICAL_URL', 'https://real-chart.finance.yahoo.com/table.csv?s=');
 define('ALL','all');
 define('BULLISH','bullish');
 define('BEARISH','bearish');
