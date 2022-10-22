@@ -145,7 +145,7 @@ value="in cloud">In Cloud-->
 						$__toggleRowHighligh = $this -> _createRowHighlight($__toggleRowHighligh); 
 					echo ">"; 
 					$this -> _createTableContentPartA($__signalCollector);
-					$this -> _createTableContentDailyDirection($__weeklySignal);
+					$this -> _createTableContentWeeklyDirection($__weeklySignal);
 					$this -> _createTableContentTextKDirection($__signalCollector);
 					echo "</tr>";
 				}
@@ -178,7 +178,7 @@ value="in cloud">In Cloud-->
 							$this -> _createTableContentPartA($__signalCollectorDaily);
 							$this -> _createTableContentDailyDirection($__dailySignal);
 							$this -> _createTableContentTextKDirection($__signalCollectorDaily);
-							$this -> _createTableContentDailyDirection($__weeklySignal);
+							$this -> _createTableContentWeeklyDirection($__weeklySignal);
 							$this -> _createTableContentTextKDirection($__signalCollectorWeekly);
 							echo "</tr>";
 						}

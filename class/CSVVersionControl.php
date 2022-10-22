@@ -91,7 +91,7 @@ class CSVVersionControl
 					
 					if(isset($__instrument -> LatestSignalWeekly)) unset($__instrument -> LatestSignalWeekly);//remove existing date
 					if(empty($__signalCollector -> OHLCIchimokuData)) $__strLastValidSignalFromExistingCSV = "N/A";
-					else $__strLastValidSignalFromExistingCSV = end($__signalCollector -> OHLCIchimokuData) -> signalCloud;//put latest date
+					else $__strLastValidSignalFromExistingCSV = reset($__signalCollector -> OHLCIchimokuData) -> signalCloud;//put latest date
 					if(isset($__strLastValidSignalFromExistingCSV)) $__instrument -> addChild("LatestSignalWeekly",$__strLastValidSignalFromExistingCSV);
 
 					if(isset($__instrument -> LatestKSignalWeekly)) unset($__instrument -> LatestKSignalWeekly);//remove existing date
