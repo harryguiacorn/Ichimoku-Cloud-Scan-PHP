@@ -9,5 +9,5 @@
 ## Ichimoku cloud signals of the index's constituents
 ![localhost_cloudservice_viewdowjones php](https://user-images.githubusercontent.com/1398153/195997962-8a7f46ce-b34c-4041-aa87-6d7b3858301a.jpeg)
 
-## Control panel to update data
+## Control panel to update data cp.php
 ![localhost_cloudservice_cp php](https://user-images.githubusercontent.com/1398153/195998281-a329abac-cdbd-454d-a5c7-6ca12c6062fa.jpeg)
