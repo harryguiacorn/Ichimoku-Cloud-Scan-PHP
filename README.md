@@ -1,5 +1,5 @@
 # Ichimoku Cloud Scan
-- A full-stack website which scans for trading signals across major indices such as S&P 500 and their constituents based on Ichimoku Cloud indicator using PHP, HTML, CSS, Javascript and Yahoo Finance.
+- A website which scans for trading signals across major indices such as S&P 500 and their constituents based on Ichimoku Cloud indicator using PHP, HTML, CSS, Javascript and Yahoo Finance.
 - cp.php is for grabbing latest data from Yahoo Finance, note that the section for updating S&P 500 stocks, it's broken into 5 links as Yahoo Finance may potentially block client's IP when the quota is hit in one go.
 - When the data has been updated, head over to index.php which is the portal page where you can see scanned results.
 - The indices included are S&P 500, Dow Jones 30, Nasdaq 100, FTSE 100, STOXX 50, major indices and currencies.
